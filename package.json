@@ -1,7 +1,7 @@
 {
 	"name": "Chomage",
 	"version": "0.0.1",
-	"description": "TODO",
+	"description": "Chomge admin app",
 	"scripts": {
 		"build": "cross-env NODE_ENV=production sapper build --legacy",
 		"dev": "sapper dev",
