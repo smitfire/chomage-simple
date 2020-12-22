@@ -1,4 +1,4 @@
-import getFaunaposts from "./_faunaposts";
+import getFaunaposts from "./_faunaposts.js";
 
 
 export async function get(req, res, next) {
