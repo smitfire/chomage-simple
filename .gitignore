@@ -1,5 +1,7 @@
 .DS_Store
 /node_modules/
+.vscode
+yarn.lock
 /src/node_modules/@sapper/
 yarn-error.log
 /__sapper__/
