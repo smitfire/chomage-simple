@@ -12,6 +12,7 @@
 		"compression": "1.7.4",
 		"faunadb": "^4.0.0",
 		"polka": "0.5.2",
+		"request": "^2.88.2",
 		"sirv": "1.0.10"
 	},
 	"devDependencies": {
